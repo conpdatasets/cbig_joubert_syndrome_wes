@@ -1,6 +1,6 @@
 {
-  "title": "Intellectual Disability Whole Exome Sequencing",
-  "description": "Whole exome sequencing data from 262 individuals with Intellectual Disability were recruited at the Montreal Neurological Institute and Hospital. Recruiting clinician was Dr. Guy Rouleau. Sequencing reads were processed using a Burrows-Wheeler Aligner (BWA) alignment, Genome Analysis Toolkit (GATK)/Picard post-alignment, and GATK HaplotypeCaller calling pipeline.",
+  "title": "Joubert Syndrome Whole Exome Sequencing",
+  "description": "Whole exome sequencing data from 30 individuals with Joubert Syndrome were recruited at the Montreal Neurological Institute and Hospital. Recruiting clinician was Dr. Guy Rouleau. Sequencing reads were processed using a Burrows-Wheeler Aligner (BWA) alignment, Genome Analysis Toolkit (GATK)/Picard post-alignment, and GATK HaplotypeCaller calling pipeline.",
   "creators": [
     {
       "name": "The Montreal Neurological Institute and Hospital Bioinformatics Core",
@@ -43,7 +43,7 @@
         "BAM ALIGNMENTS",
         "GVCF/VCF FILES"
       ],
-      "size": 2827.0045,
+      "size": 430.251,
       "unit": {
         "value": "GB"
       },
@@ -68,7 +68,7 @@
   ],
   "keywords": [
     {
-      "value": "Intellectual Disability"
+      "value": "Joubert Syndrome"
     },
     {
       "value": "Exome"
@@ -85,7 +85,7 @@
       "category": "subjects",
       "values": [
         {
-          "value": "262"
+          "value": "30"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "category": "files",
       "values": [
         {
-          "value": "1185"
+          "value": "150"
         }
       ]
     },
